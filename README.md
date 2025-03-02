@@ -7,3 +7,5 @@ Kuski ja apukuski pystyvät vain suorittaa komennon ja se kytkee kaikissa autoss
 Bugeja?: Ei ole tiedossa, jos löydät ilmoitathan niistä, discord: joll1_
 
 Jos jotain ideoita/parannuksia tähän niin ota yhteyttä discordissa joll1_
+
+Voit muokata koodia miten haluat mutta älä claimaa omaksi kiitos :)
